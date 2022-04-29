@@ -3,7 +3,7 @@ const prompt = require('prompt-sync')();
 // Declaração da lista de participantes
 const participantes = [];
 // Declaração do limite de participantes
-const limite = 5;
+const limite = 100;
 
 // loop de cadastro de participantes
 do {
